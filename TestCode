@@ -10,5 +10,7 @@ public class Test_sonarClould {
             // Deserialize the JSON string into collections of primitive data types.
           System.debug('Response Body::::'+response.getBody());
             }
+            public void start(){
+            }
         }
    }
