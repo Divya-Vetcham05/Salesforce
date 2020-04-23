@@ -12,5 +12,7 @@ public class Test_sonarClould {
             }
             public void start(){
             }
+        interger a=
+            1;
         }
    }
